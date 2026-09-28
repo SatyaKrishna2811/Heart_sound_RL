@@ -1,0 +1,4 @@
+{
+  "K": 8,
+  "criterion": "validation mean reward of the DP-optimal policy"
+}

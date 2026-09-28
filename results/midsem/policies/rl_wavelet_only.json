@@ -1,0 +1,24 @@
+{
+  "algorithm": "gradient",
+  "K": 8,
+  "policy_config": [
+    1668,
+    1668,
+    408,
+    2088,
+    408,
+    1668,
+    2088,
+    1668
+  ],
+  "wavelets": [
+    "sym4",
+    "sym4",
+    "db4",
+    "coif3",
+    "db4",
+    "sym4",
+    "coif3",
+    "sym4"
+  ]
+}
