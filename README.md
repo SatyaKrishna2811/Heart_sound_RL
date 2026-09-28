@@ -21,7 +21,7 @@ Carlo, TD, n-step, Dyna, prioritized sweeping, MCTS) and **24AIM301 Signal & Ima
 (IIR/FIR, PSD, coherence, cepstrum, homomorphic filtering, wavelets, PCA/ICA, image segmentation,
 texture, compression).
 
-> Status: work in progress. The data pipeline (notebooks 00–05) is complete and executed. The RL and deep-learning notebooks are being run.
+> Status: work in progress. Notebooks 00–06 are executed with outputs. Notebooks 07–21 contain the complete code and are being executed; their outputs and the final results table come in the next push.
 
 ## How it works
 
