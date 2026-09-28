@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch==2.14.0
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.6
+scikit-learn==1.9.1
+PyWavelets==1.10.0
+soundfile==0.14.0
+matplotlib==3.11.2
+seaborn==0.13.2
+gymnasium==1.3.0
+stable-baselines3==2.9.0
+joblib==1.6.0
+pyyaml==6.0.3
+jupyter==1.1.1
+nbconvert==7.17.1
+ipykernel==7.3.0

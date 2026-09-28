@@ -1,0 +1,35 @@
+{
+  "recordings": 3163,
+  "patients": 942,
+  "patient_murmur": {
+    "Absent": 695,
+    "Present": 179,
+    "Unknown": 68
+  },
+  "patient_outcome": {
+    "Normal": 486,
+    "Abnormal": 456
+  },
+  "recording_murmur": {
+    "Absent": 2508,
+    "Present": 499,
+    "Unknown": 156
+  },
+  "locations": {
+    "MV": 861,
+    "AV": 800,
+    "PV": 766,
+    "TV": 732,
+    "Phc": 4
+  },
+  "duration_s": {
+    "count": 3163.0,
+    "mean": 22.87,
+    "std": 7.28,
+    "min": 5.15,
+    "25%": 19.06,
+    "50%": 21.46,
+    "75%": 29.39,
+    "max": 64.51
+  }
+}

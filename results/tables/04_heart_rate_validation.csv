@@ -1,0 +1,3 @@
+method,MAE (bpm),median AE (bpm),within 10 bpm
+cepstrum of homomorphic envelope,26.79924393825468,5.044169759832801,0.6736242884250474
+autocorrelation of envelope,32.20579155447192,4.062785079558523,0.6578115117014548

@@ -1,0 +1,16 @@
+{
+  "version": "1.0.3",
+  "files_listed_in_SHA256SUMS": 10434,
+  "files_verified": 10434,
+  "total_size_MB": 557.9,
+  "by_extension": {
+    ".hea": 3163,
+    ".tsv": 3163,
+    ".wav": 3163,
+    ".txt": 943,
+    "": 1,
+    ".csv": 1
+  },
+  "records_in_RECORDS": 3163,
+  "download_command": "wget -r -N -c -np https://physionet.org/files/circor-heart-sound/1.0.3/"
+}
