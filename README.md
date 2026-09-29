@@ -21,7 +21,7 @@ Carlo, TD, n-step, Dyna, prioritized sweeping, MCTS) and **24AIM301 Signal & Ima
 (IIR/FIR, PSD, coherence, cepstrum, homomorphic filtering, wavelets, PCA/ICA, image segmentation,
 texture, compression).
 
-> Status: the mid-semester half (`notebooks/midsem/`, tag `midsem-submission`) is complete and executed. The end-semester notebooks (`notebooks/endsem/`) are being executed and will be pushed with their outputs and the final results table.
+> Status: `main` holds the mid-semester half (`notebooks/midsem/`, tag `midsem-submission`), complete and executed. The end-semester half is developed on the [`endsem`](https://github.com/SatyaKrishna2811/Heart_sound_RL/tree/endsem) branch.
 
 ## How it works
 
