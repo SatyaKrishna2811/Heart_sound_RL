@@ -7,3 +7,5 @@ data/processed/
 models/**/*.pt
 models/*.zip
 *.part
+version 2/data/
+version 2/run.log
